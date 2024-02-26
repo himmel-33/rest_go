@@ -1,0 +1,9 @@
+{
+    "DBUser":"279",
+	"DBPW":"279developer", 
+	"DBIP4": "192.168.0.53",
+	"DBIP": "127.0.0.1",
+	"DBPort": 3306,
+	"RESTPort": 3309,
+	"DBName": "gas_monitoring"
+}
