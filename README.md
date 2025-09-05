@@ -1,3 +1,3 @@
-## Go를 활용한 resapi 를 알아보자
+## Go를 활용한 resAPI study
 ---
-#### go에서 restapi를 통해 web서버로 데이터를 전송할 수 있다. 데이터 형태는 map 형태이며 키와 값으로 묶어 전달이된다.!!
+#### go언어로 만드는 restAPI 백엔드 서버 study 레포지토리 입니다.
